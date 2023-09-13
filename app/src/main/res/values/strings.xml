@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mobile CV editor(Hng task 2)</string>
+    <string name="name">Titilope Ajayi</string>
+    <string name="Title">Mobile App Developer</string>
+    <string name="about_me">About Me</string>
+    <string name="connect_me">Connect with me</string>
+    <string name="github_handle">Titilegend</string>
+    <string name="slack_handle">TitilopeAjayi</string>
+    <string name="editCv">Edit CV</string>
+    <string name="description">
+        I am a hardworking Individual with proficiency and passion for mobile app development for android devices.
+            I am seeking a new opportunity that will help me further expand these skills.
+        </string>
+
+
+</resources>
